@@ -214,7 +214,6 @@ ml-dtypes
 mmh3==3.0.0
 mne==1.6.1
 mock
-monotonic==1.7
 more-itertools
 moviepy==1.0.3
 mp-api
