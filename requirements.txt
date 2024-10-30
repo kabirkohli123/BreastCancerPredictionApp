@@ -333,8 +333,6 @@ pyttsx3==2.91
 pytz
 pyviz_comms
 pywavelets
-pywin32==306
-pywin32-ctypes
 pywinpty==2.0.10
 PyYAML
 pyzmq==26.2.0
