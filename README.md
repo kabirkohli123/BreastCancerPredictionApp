@@ -1,7 +1,3 @@
-Here's a README file template for your GitHub repository:
-
----
-
 # Breast Cancer Prediction
 
 This repository contains a machine learning project focused on predicting breast cancer diagnoses. The project includes data analysis, model training, and a web application built using Flask to make predictions on new data inputs.
