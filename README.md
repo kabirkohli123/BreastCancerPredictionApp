@@ -24,8 +24,8 @@ To run this project locally, please follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/kabirkohli123/BreastCancerPrediction.git
-   cd BreastCancerPrediction
+   git clone https://github.com/kabirkohli123/BreastCancerPredictionApp.git
+   cd BreastCancerPredictionApp
    ```
 
 2. Create a virtual environment:
