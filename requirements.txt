@@ -65,7 +65,6 @@ colorama==0.4.6
 colorcet
 comm==0.2.2
 comtypes==1.4.6
-conda
 conda-build
 conda-content-trust
 conda-libmamba-solver
