@@ -65,14 +65,6 @@ colorama==0.4.6
 colorcet
 comm==0.2.2
 comtypes==1.4.6
-conda-build
-conda-libmamba-solver
-conda-pack
-conda-package-handling
-conda-repo-cli
-conda-token
-conda_index
-conda_package_streaming
 constantly
 contextily==1.6.1
 contourpy
